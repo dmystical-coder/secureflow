@@ -1,6 +1,6 @@
 {
-  "name": "secureflow-frontend",
-  "version": "0.1.0",
+  "name": "gidi-flash",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": ">=18"
